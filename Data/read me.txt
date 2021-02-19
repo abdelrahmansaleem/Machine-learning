@@ -1,0 +1,1 @@
+                In this part we will present how can we understand our data usig statistcs, how to prepare data for ML applying,applying feature selection and the different types of evaluation metrices used for ML.
