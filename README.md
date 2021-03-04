@@ -5,12 +5,12 @@
 
   1.  Python: 
                           
-         Offers a basics for 
+          Offers a basics for 
                           1. python language (plotting, read CSV files)
                           2. basiscs knowledge required for working with Machine Learning (ML) algorithms.
   2.  Data: 
   
-         In this part we will present:
+           In this part we will present:
                           1. how can we understand our data usig statistcs
                           2. how to prepare data for ML applying,applying feature selection 
                           3. Different types of evaluation metrices used for ML.
