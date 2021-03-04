@@ -1,7 +1,7 @@
 # Machine-learning
-### If you are seeking for learning Machine learning (ML), this repository is your way to expert ML and data science. This repository assumes you don't know ML algorithms, python or statistics. As it will provide you with all tools and principles to become a ML expert. 
+### If you are seeking for learning Machine learning (ML), this repository is your way to be an expert in ML and data science. This repository assumes you don't know ML algorithms, python or statistics. As it will provide you with all tools and principles to become a ML expert. 
 
-### Note that each part contains a subfolder named Dataset and ppt which cintains the used datasets and ppt for that part.
+### Note that each part contains a subfolder named Dataset and ppt which contains the used datasets and ppt for that part.
 
 # This repository consists of four parts
 
