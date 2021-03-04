@@ -5,14 +5,14 @@
 
 # This repository consists of four parts
 
-  1.  # Python: 
+  #1.  Python: 
                           
           Offers a basics for 
                           1. python language (plotting, read CSV files)
                           2. basiscs knowledge required for working with ML algorithms.
 
 
-  2.  # Data: 
+  #2.  Data: 
   
            In this part we will present:
                           1. how can we understand our data usig statistcs
@@ -20,7 +20,7 @@
                           3. Different types of evaluation metrices used for ML.
 
 
-  3.  # ML algorithms: 
+  #3.  ML algorithms: 
                            
                            1. Explains different types of ML algorithms
                            
@@ -47,7 +47,7 @@
                                           3.Save and Load Machine Learning Models
 
 
-  4.  # Projects: 
+  #4.  Projects: 
           
           In this part you will apply all what you have been learned in all previous parts in real projects from start to end:
           
