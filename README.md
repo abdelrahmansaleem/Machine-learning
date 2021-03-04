@@ -1,5 +1,5 @@
 # Machine-learning
-
+If you are seeking for learning Machine learning (ML), this repository is your way to expert ML and data science. This repository assumes you don't know ML algorithms, python or statistics. As it will provide you with all tools and principles to become a ML expert.
 
 # This repository consists of four parts
 
@@ -7,7 +7,7 @@
                           
           Offers a basics for 
                           1. python language (plotting, read CSV files)
-                          2. basiscs knowledge required for working with Machine Learning (ML) algorithms.
+                          2. basiscs knowledge required for working with ML algorithms.
 
 
   2.  Data: 
