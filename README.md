@@ -8,12 +8,16 @@
           Offers a basics for 
                           1. python language (plotting, read CSV files)
                           2. basiscs knowledge required for working with Machine Learning (ML) algorithms.
+
+
   2.  Data: 
   
            In this part we will present:
                           1. how can we understand our data usig statistcs
                           2. how to prepare data for ML applying,applying feature selection 
                           3. Different types of evaluation metrices used for ML.
+
+
   3.  ML algorithms: 
                            
                            1. Explains different types of ML algorithms
@@ -32,8 +36,7 @@
                                             Naive Bayes.
                                             Classification and Regression Trees.
                                             Support Vector Machines)
-                          
-                          
+                                                    
                           4. Comparing ML Algorithms      
                                      
                           6. Improve Performance
@@ -44,7 +47,8 @@
 
   4.  Projects: 
           
-          In this part you will apply all what you have been learned in all previous parts in real projects from start to end.
+          In this part you will apply all what you have been learned in all previous parts in real projects from start to end:
+          
                                          1. Project_templete
                                          2. Regression  Project
                                          3. Binary Classification Case Study Project
